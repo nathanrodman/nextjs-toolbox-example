@@ -163,3 +163,5 @@ There are many ways to use redirects. Check out the resouces below to learn more
 ## Next.js Toolbox Template - Walkthrough
 
 https://user-images.githubusercontent.com/76533034/156541634-4dd7ce20-c413-43c1-ac7d-1494dad00338.mp4
+
+> update
